@@ -1,0 +1,15 @@
+{
+  "name": "rbac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RBAC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "implement-js": "0.0.27",
+    "readline-sync": "^1.4.9"
+  }
+}
